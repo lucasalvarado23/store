@@ -1,9 +1,6 @@
 // import the ability to modify browser history within our router
 import createHistory from 'history/createBrowserHistory';
 
-// import our logger for redux
-import { createLogger } from 'redux-logger';
-
 // import a library to handle async with redux
 import thunk from 'redux-thunk';
 
