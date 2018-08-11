@@ -1,12 +1,12 @@
 {
-  "name": "React Demo Store",
+  "name": "Active-hustle",
   "description": "React demo store built with the moltin JavaScript SDK",
   "logo": "https://www.moltin.com/img/icons/favicons/apple-touch-icon.png",
-  "repository": "https://github.com/moltin/react-demo-store",
+  "repository": "https://github.com/lucasalvarado23/store",
   "keywords": ["moltin", "react", "ecommerce"],
   "buildpacks": [
     {
-      "url": "https://github.com/mars/create-react-app-buildpack.git"
+      "url": "https://github.com/lucasalvarado23/store"
     }
   ],
   "success_url": "/",
